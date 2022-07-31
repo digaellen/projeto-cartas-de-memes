@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cartas de Meme</title>
+    <link rel="shortcur icon" href="src/imagens/meme.png" type="image/x-icon" />
+
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="src/css/reset.css">
+    <link rel="stylesheet" href="src/css/estilos.css">
+    <link rel="stylesheet" href="src/css/responsivo.css">
+    
+
+</head>
+<body>
+    <header class="cabecalho">
+        <img src="src/imagens/meme.png" alt="Meme" id="imagem-capa" class="meme">
+        <h1 class="titulo">Memes em Cartas</h1>
+    </header>
+
+    <main class="meme-slider">
+
+        <button class="button-seta button-voltar" id="button-voltar">
+            <img src="src/imagens/seta.png" alt="seta voltar">
+        </button>
+
+        <ul class="lista-memes">
+
+            <li class="cartao selecionado fundo-1">
+                <div class="informacoes">
+                    <h2 class="nome">E morreu</h2>
+                    <p class="vida">HP 1300</p>
+                </div>
+
+                <div class="container-imagem">
+                    <img src="src/imagens/e-morreu.jpg" alt="Meme do Didi" class="imagem-didi">
+                </div>
+
+                <div class="descricao">
+                    <h3 class="titulo">Descrição</h3>
+                    <p class="texto">Quando essa carta é posta em campo, ela te permite escolher um monstro do seu inimigo para descobrir se no céu tem pão</p>
+                </div>
+            </li>
+
+            <li class="cartao fundo-2">
+                <div class="informacoes">
+                    <h2 class="nome">Análise</h2>
+                    <p class="vida">HP 500</p>
+                </div>
+
+                <div class="container-imagem">
+                    <img src="src/imagens/analise.jpg" alt="Analisando a situação" class="imagem-analise">
+                </div>
+
+                <div class="descricao">
+                    <h3 class="titulo">Descrição</h3>
+                    <p class="texto">Quando invocado o mestre das poses, ele analisa todas as cartas do seu oponente, revelando a mão dele para você, e o deixando de boca aberta.</p>
+                </div>
+            </li>
+
+            <li class="cartao fundo-3">
+                <div class="informacoes">
+                    <h2 class="nome">Carreta Furacão</h2>
+                    <p class="vida">HP 800</p>
+                </div>
+
+                <div class="container-imagem">
+                    <img src="src/imagens/carreta-furacao.jpg" alt="Carreta Furacão" class="imagem-carreta-furacao">
+                </div>
+
+                <div class="descricao">
+                    <h3 class="titulo">Descrição</h3>
+                    <p class="texto">Quando essa carta é ativada, o oponente é obrigado a seguir em frente, olhar para o lado, se liga no mestiço, na batida do cavaco</p>
+                </div>
+            </li>
+
+        </ul>
+
+        <button class="button-seta" id="button-avancar">
+            <img src="src/imagens/seta.png" alt="Seta Avançar">
+        </button>
+
+        <script src="src/javascript/index.js"></script>
+    </main>
+
+    <footer>
+        <h3 class="by">Feito por: <a href="https://www.linkedin.com/in/ellencamila/" target="_blank">Ellen Camila</a></h3>
+    </footer>
+</body>
+</html>

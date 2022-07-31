@@ -1,0 +1,30 @@
+@media (max-width: 620px) {
+    .meme-slider {
+        padding: 0 15px;
+        gap: 10px;
+    }
+
+    .button-seta {
+        width: 20px;
+        height: 20px;
+        padding: 20px;
+    }
+
+    .lista-memes {
+    height: 480px;
+    }
+
+    .cartao .imagem-meme {
+        max-height: 230px;
+        padding: 20px;
+    }
+
+    .cartao .informacoes .nome {
+        max-width: 50%;
+        font-size: 18px;
+    }
+
+    .cartao .informacoes .vida {
+        font-size: 14px;
+    }
+}
