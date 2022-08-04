@@ -1,6 +1,4 @@
-<h1>Segundo Projeto 🎈</h1>
-
-Projeto criado durante a semana de MapaDevWeek, onde aprendi a colocar em prática tudo que estudei sobre HTML, CSS e JavaScript.
+<h1>Projeto Carta de Memes 🎈</h1>
 
 A ideia é uma seleção de cartas, onde o usuário consegue navegar entre elas.
 Fiz a minha versão desse projeto utilizando cartas de memes conhecidos, que são muito utilizados em redes sociais como o Twitter.
@@ -25,3 +23,6 @@ https://user-images.githubusercontent.com/102759855/182890608-d01ee9ba-7046-4047
 
 Meu projeto: https://digaellen.github.io/projeto-cartas-de-memes/
 Meu LinkedIn: https://br.linkedin.com/in/ellencamila2
+
+
+Projeto criado durante a semana de MapaDevWeek, onde aprendi a colocar em prática tudo que estudei sobre HTML, CSS e JavaScript.
