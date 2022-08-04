@@ -13,7 +13,10 @@ Esse foi o meu segundo projeto com os gêmeos da Dev em Dobro, e dessa vez tive 
 Tive um pouco mais de dificuldade com a linguagem JavaScript, o que me incentivou a buscar mais conhecimento sobre o tema.
 
 Resultado:
-https://user-images.githubusercontent.com/102759855/182887595-64b441a3-624c-42ef-a758-1a420296eb34.mp4
+
+
+https://user-images.githubusercontent.com/102759855/182890608-d01ee9ba-7046-4047-861f-24b082c36a88.mp4
+
 
 ## Linguagens utilizadas
 - HTML5
